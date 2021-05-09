@@ -1,1 +1,1 @@
-worker: bepro.py
+worker: python bepro.py
